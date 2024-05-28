@@ -11,7 +11,7 @@ This project demonstrates a simple implementation of JWT (JSON Web Tokens) authe
   1 Clone the Repository: Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/Mrityunjai2707/LoginSignupWIthJWT
 ```
 2 Database Configuration: Ensure you have SQL Server installed and running. Update the connection string in the appsettings.json file with your database credentials.
 ```bash
